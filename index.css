@@ -17,10 +17,10 @@
 }
 
 .musicapp {
-    height: 70vmin;
-    width: 55vmin;
-    padding: 15px;
-    border-radius: 20px;
+    height: 75vmin;
+    width: 60vmin;
+    padding: 25px;
+    border-radius: 10px;
     background-color: #566573;
     text-align: center;
 }
