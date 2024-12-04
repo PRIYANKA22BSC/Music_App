@@ -73,7 +73,7 @@ input[type=range]::-webkit-slider-thumb {
     width: 20px;
     border-radius: 50%;
     z-index: 10;
-    background: #d45819;
+    background: #f07167;
     cursor: pointer;
 }
 
